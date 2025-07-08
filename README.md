@@ -17,7 +17,7 @@ Built using modern UI5 practices and ready to connect with OData or RAP services
 
 A brief overview of the main directories and files:
 
-EmployUi/
+```EmployUi/
 ├── webapp/                 # Contains all the UI5 application code
 │   ├── controller/         # Logic for the views (e.g., Employee and Invoice controllers)
 │   ├── view/               # XML views (UI definitions for EmployeeList, InvoiceDetail, etc.)
@@ -30,7 +30,7 @@ EmployUi/
 ├── package.json            # Node.js project configuration and scripts
 ├── .gitignore              # Files to be ignored by Git
 └── README.md               # This file 
-
+```
 
 
 ## How to Run Locally
