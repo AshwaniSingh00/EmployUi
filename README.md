@@ -1,6 +1,6 @@
 # 👨‍💼 EmployUi - SAPUI5 App
 
-A clean and responsive SAPUI5-based frontend application to manage employee-related data.  
+A clean and responsive SAPUI5-based frontend application to manage employee-related data and also a product invoice.  
 Built using modern UI5 practices and ready to connect with OData or RAP services.
 
 ---
@@ -8,9 +8,10 @@ Built using modern UI5 practices and ready to connect with OData or RAP services
 ## 🔧 Tech Stack
 
 - SAPUI5
-- JavaScript (MVC Pattern)
-- UI5 Tooling (`ui5.yaml`)
+- JavaScript
+- UI5 Tooling
 - Works with OData V4 (backend ready)
+- View Navigation 
 
 
 
