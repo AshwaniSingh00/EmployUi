@@ -40,7 +40,7 @@ For personal learning and demo purposes.
 ## 🖼️ Application Screenshots
 
 ### 🔐 Login Page
-[Login](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/login.png)
+[Login](https://chatgpt.com/c/686ca549-85bc-8000-85d6-a469cb9ef3e0)
 ### 💼 Salary Slip Generator
 [Payroll](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/EmpPayroll.png)
 ### 🧾 Product Invoice
