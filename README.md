@@ -40,9 +40,9 @@ For personal learning and demo purposes.
 ## 🖼️ Application Screenshots
 
 ### 🔐 Login Page
-![Login](./screenshots/login.png)
+![Login](../screenshots/login.png)
 ### 💼 Salary Slip Generator
-![Salary](./screenshots/EmpPayroll.png)
+![Salary](../screenshots/EmpPayroll.png)
 
 ### 🧾 Product Invoice
-![Invoice](./screenshots/Invoice.png)
+![Invoice](../screenshots/Invoice.png)
