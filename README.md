@@ -12,25 +12,7 @@ Built using modern UI5 practices and ready to connect with OData or RAP services
 - UI5 Tooling (`ui5.yaml`)
 - Works with OData V4 (backend ready)
 
----
 
-## 🗂️ Project Structure
-
-EmployUi/
-├── webapp/
-│ ├── view/
-│ ├── controller/
-│ ├── Component.js
-│ └── index.html
-├── ui5.yaml
-├── package.json
-└── README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## How to Run Locally
 
