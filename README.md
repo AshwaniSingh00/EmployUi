@@ -19,7 +19,7 @@ Built using modern UI5 practices and ready to connect with OData or RAP services
 
 Install UI5 CLI (once):
 
-```bash
+bash
 npm install --global @ui5/cli
 Then run the app:
 
@@ -40,8 +40,9 @@ For personal learning and demo purposes.
 ## 🖼️ Application Screenshots
 
 ### 🔐 Login Page
-[Login](https://chatgpt.com/c/686ca549-85bc-8000-85d6-a469cb9ef3e0)
+![Login](./screenshots/login.png)
 ### 💼 Salary Slip Generator
-[Payroll](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/EmpPayroll.png)
+![Salary](./screenshots/EmpPayroll.png)
+
 ### 🧾 Product Invoice
-[Invoice](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/Invoice.png)
+![Invoice](./screenshots/Invoice.png)
