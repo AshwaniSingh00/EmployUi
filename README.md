@@ -29,7 +29,7 @@ EmployUi/
 ├── ui5.yaml                # UI5 CLI configuration
 ├── package.json            # Node.js project configuration and scripts
 ├── .gitignore              # Files to be ignored by Git
-└── README.md               # This file
+└── README.md               # This file 
 
 
 
