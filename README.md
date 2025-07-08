@@ -37,3 +37,13 @@ GitHub: AshwaniSingh00
 
 📜 License
 For personal learning and demo purposes.
+## 🖼️ Application Screenshots
+
+### 🔐 Login Page
+![Login](./screenshots/login.png)
+
+### 💼 Salary Slip Generator
+![Salary](./screenshots/EmpPayroll.png)
+
+### 🧾 Product Invoice
+![Invoice](./screenshots/Invoice.png)
