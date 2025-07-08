@@ -32,7 +32,7 @@ Edit
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 Install UI5 CLI (once):
 
@@ -54,20 +54,3 @@ GitHub: AshwaniSingh00
 
 📜 License
 For personal learning and demo purposes.
-
-yaml
-Copy
-Edit
-
----
-
-### 🔹 Step 2: Add it to GitHub
-
-1. Save the file as `README.md` in your `/EmployUi` folder.
-2. Then go to Terminal and run:
-
-```bash
-cd ~/Desktop/EmployUi
-git add README.md
-git commit -m "Added project README"
-git push
