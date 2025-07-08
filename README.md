@@ -13,6 +13,24 @@ Built using modern UI5 practices and ready to connect with OData or RAP services
 - Works with OData V4 (backend ready)
 - View Navigation 
 
+## 📂 Project Structure
+
+A brief overview of the main directories and files:
+
+EmployUi/
+├── webapp/                 # Contains all the UI5 application code
+│   ├── controller/         # Logic for the views (e.g., Employee and Invoice controllers)
+│   ├── view/               # XML views (UI definitions for EmployeeList, InvoiceDetail, etc.)
+│   ├── model/              # Data models and helper classes
+│   ├── i18n/               # Internationalization texts
+│   ├── css/                # Custom CSS styles
+│   ├── component.js        # Main entry point for the UI5 application
+│   └── manifest.json       # Application descriptor (config, models, routing, etc.)
+├── ui5.yaml                # UI5 CLI configuration
+├── package.json            # Node.js project configuration and scripts
+├── .gitignore              # Files to be ignored by Git
+└── README.md               # This file
+
 
 
 ## How to Run Locally
