@@ -34,7 +34,8 @@ A brief overview of the main directories and files:
 
 
 ## How to Run Locally
-```Open BTP cockpit
+```
+Open BTP cockpit
 copy
 paste
 in bash
