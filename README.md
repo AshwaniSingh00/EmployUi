@@ -40,8 +40,8 @@ For personal learning and demo purposes.
 ## 🖼️ Application Screenshots
 
 ### 🔐 Login Page
-![Login](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/login.png)
+[Login](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/login.png)
 ### 💼 Salary Slip Generator
-![Payroll](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/EmpPayroll.png)
+[Payroll](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/EmpPayroll.png)
 ### 🧾 Product Invoice
-![Invoice](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/Invoice.png)
+[Invoice](https://github.com/AshwaniSingh00/EmployUi/raw/main/screenshots/Invoice.png)
