@@ -34,20 +34,14 @@ A brief overview of the main directories and files:
 
 
 ## How to Run Locally
-
-Install UI5 CLI (once):
-'''
-bash
-npm install --global @ui5/cli
-Then run the app:
-
-bash
-Copy
-Edit
+```Open BTP cockpit
+copy
+paste
+in bash
 npm install
-ui5 serve
-Open in browser:
-👉 http://localhost:8080/index.html
+npm start
+This will typically open the application in your default browser at `http://localhost:8080`
+```
 
 ✍️ Author
 Ashwani Singh
