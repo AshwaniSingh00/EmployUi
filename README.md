@@ -1,36 +1,73 @@
-## Application Details
-|               |
-| ------------- |
-|**Generation Date and Time**<br>Fri May 30 2025 05:24:58 GMT+0000 (Coordinated Universal Time)|
-|**App Generator**<br>SAP Fiori Application Generator|
-|**App Generator Version**<br>1.17.6|
-|**Generation Platform**<br>SAP Business Application Studio|
-|**Template Used**<br>Basic|
-|**Service Type**<br>None|
-|**Service URL**<br>N/A|
-|**Module Name**<br>project2|
-|**Application Title**<br>App Title|
-|**Namespace**<br>|
-|**UI5 Theme**<br>sap_horizon|
-|**UI5 Version**<br>1.136.1|
-|**Enable Code Assist Libraries**<br>False|
-|**Enable TypeScript**<br>False|
-|**Add Eslint configuration**<br>False|
+# 👨‍💼 EmployUi - SAPUI5 App
 
-## project2
+A clean and responsive SAPUI5-based frontend application to manage employee-related data.  
+Built using modern UI5 practices and ready to connect with OData or RAP services.
 
-An SAP Fiori application.
+---
 
-### Starting the generated app
+## 🔧 Tech Stack
 
--   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply run the following from the generated app root folder:
+- SAPUI5
+- JavaScript (MVC Pattern)
+- UI5 Tooling (`ui5.yaml`)
+- Works with OData V4 (backend ready)
 
-```
-    npm start
-```
+---
 
-#### Pre-requisites:
+## 🗂️ Project Structure
 
-1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
+EmployUi/
+├── webapp/
+│ ├── view/
+│ ├── controller/
+│ ├── Component.js
+│ └── index.html
+├── ui5.yaml
+├── package.json
+└── README.md
 
+yaml
+Copy
+Edit
 
+---
+
+## 🚀 How to Run Locally
+
+Install UI5 CLI (once):
+
+```bash
+npm install --global @ui5/cli
+Then run the app:
+
+bash
+Copy
+Edit
+npm install
+ui5 serve
+Open in browser:
+👉 http://localhost:8080/index.html
+
+✍️ Author
+Ashwani Singh
+GitHub: AshwaniSingh00
+
+📜 License
+For personal learning and demo purposes.
+
+yaml
+Copy
+Edit
+
+---
+
+### 🔹 Step 2: Add it to GitHub
+
+1. Save the file as `README.md` in your `/EmployUi` folder.
+2. Then go to Terminal and run:
+
+```bash
+cd ~/Desktop/EmployUi
+git add README.md
+git commit -m "Added project README"
+git push
