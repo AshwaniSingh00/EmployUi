@@ -18,7 +18,7 @@ Built using modern UI5 practices and ready to connect with OData or RAP services
 ## How to Run Locally
 
 Install UI5 CLI (once):
-
+'''
 bash
 npm install --global @ui5/cli
 Then run the app:
