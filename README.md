@@ -51,8 +51,9 @@ GitHub: AshwaniSingh00
 
 📜 License
 For personal learning and demo purposes.
-## 🖼️ Application Screenshots
 ```
+## 🖼️ Application Screenshots
+
 ### 🔐 Login Page
 ![Login](./webapp/screenshots/login.png)
 ### 💼 Salary Slip Generator
